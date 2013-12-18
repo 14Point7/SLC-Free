@@ -1,0 +1,5 @@
+-F0x30 -g -blit:0x150.0xfff 
+ -bdata:0.0xFF -rwh:SSCParmBlk:0x00F7.0x00FF  -O -elim:UserModules 
+ -o"output/SLC_Free_Open_Source" 
+obj/main.o 	
+ ./lib/libPSoc.a -LC:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/lib/SMM C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/lib/CY8C24000B/cms.a C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/lib/SMM/UASW/MAC/arith.a  

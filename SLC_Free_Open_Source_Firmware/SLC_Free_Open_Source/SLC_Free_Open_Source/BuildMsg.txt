@@ -1,0 +1,77 @@
+Starting MAKE...
+creating project.mk 
+lib/adcinc.asm
+lib/adcincint.asm
+lib/amux4_0.asm
+lib/amux4_1.asm
+lib/dac6_vgnd.asm
+lib/dac9_ia.asm
+lib/insamp.asm
+lib/lcd.asm
+lib/psocconfig.asm
+lib/psocconfigtbl.asm
+lib/pwm8_heater.asm
+lib/pwm8_heaterint.asm
+lib/pwm8_nb_out.asm
+lib/pwm8_nb_outint.asm
+lib/pwm8_vout.asm
+lib/pwm8_voutint.asm
+lib/sleeptimer.asm
+lib/sleeptimerint.asm
+./boot.asm
+Linking..
+symbol ADCINC_bGetData is unused
+symbol SleepTimer_bGetTickCntr is unused
+symbol PWM8_Heater_bReadCounter is unused
+symbol ADCINC_iGetData is unused
+symbol SleepTimer_iGetTickCntr is unused
+symbol SleepTimer_lGetTickCntr is unused
+symbol PWM8_Vout_EnableInt is unused
+symbol PWM8_Vout_Stop is unused
+symbol LCD_DrawBG is unused
+symbol SleepTimer_TickWait is unused
+symbol PWM8_Vout_bReadPulseWidth is unused
+symbol PWM8_NB_Out_EnableInt is unused
+symbol SleepTimer_SetTimer is unused
+symbol SleepTimer_SyncWait is unused
+symbol LCD_DrawVBG is unused
+symbol LCD_InitVBG is unused
+symbol ADCINC_Stop is unused
+symbol PWM8_Heater_EnableInt is unused
+symbol PWM8_NB_Out_Stop is unused
+symbol ADCINC_fClearFlag is unused
+symbol INSAMP_Stop is unused
+symbol SleepTimer_bGetTimer is unused
+symbol PWM8_Heater_Stop is unused
+symbol PWM8_NB_Out_bReadPulseWidth is unused
+symbol _LCD_DrawVBG is unused
+symbol SleepTimer_Stop is unused
+symbol AMUX4_0_Stop is unused
+symbol AMUX4_1_Stop is unused
+symbol PWM8_Vout_WritePeriod is unused
+symbol DAC9_Ia_Stop is unused
+symbol ADCINC_WritePulseWidth is unused
+symbol ADCINC_fIsDataAvailable is unused
+symbol PWM8_Heater_bReadPulseWidth is unused
+symbol SleepTimer_DisableInt is unused
+symbol LCD_PrHexInt is unused
+symbol PWM8_Vout_bReadCounter is unused
+symbol DAC9_Ia_WriteBlind is unused
+symbol ADCINC_cClearFlagGetData is unused
+symbol AMUX4_0_Start is unused
+symbol AMUX4_1_Start is unused
+symbol ADCINC_StopADC is unused
+symbol PWM8_NB_Out_WritePeriod is unused
+symbol DAC6_VGND_Stop is unused
+symbol PWM8_Heater_WritePeriod is unused
+symbol PWM8_NB_Out_bReadCounter is unused
+symbol INSAMP_SetGain is unused
+symbol DAC6_VGND_WriteBlind is unused
+603 bytes unused code deleted
+no worthwhile duplicate found
+  ROM 89% full. 3607 out of 4096 bytes used (does not include absolute areas).
+  RAM 40% full. 101 bytes used (does not include stack usage).
+Built with ICCM8C STD V7.05.00
+ 
+SLC_Free_Open_Source - 0 error(s) 0 warning(s) 12:54:08
+

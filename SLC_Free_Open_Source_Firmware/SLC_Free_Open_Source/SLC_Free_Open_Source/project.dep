@@ -1,0 +1,65 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8ssc.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\lib\GLOBAL~1.INC\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./obj/main.o :  ./lib/ADCINC.h ./lib/AMUX4_0.h ./lib/AMUX4_1.h\
+   ./lib/DAC6_V~1.H ./lib/DAC9_Ia.h ./lib/INSAMP.h ./lib/LCD.h\
+   ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/PWM8_H~1.H ./lib/PWM8_N~1.H\
+   ./lib/PWM8_V~1.H ./lib/SLEEPT~1.H\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/M8C.h\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.h
+./lib/obj/adcinc.o :  ./lib/ADCINC.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/adcincint.o :  ./lib/ADCINC.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/amux4_0.o :  ./lib/AMUX4_0.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/amux4_1.o :  ./lib/AMUX4_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/dac6_vgnd.o :  ./lib/DAC6_V~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/dac9_ia.o :  ./lib/DAC9_Ia.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/insamp.o :  ./lib/INSAMP.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/lcd.o :  ./lib/LCD.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc
+./lib/obj/pwm8_heater.o :  ./lib/PWM8_H~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/pwm8_heaterint.o :  ./lib/PWM8_H~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/pwm8_nb_out.o :  ./lib/PWM8_N~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/pwm8_nb_outint.o :  ./lib/PWM8_N~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/pwm8_vout.o :  ./lib/PWM8_V~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/pwm8_voutint.o :  ./lib/PWM8_V~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/sleeptimer.o :  ./lib/SLEEPT~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
+./lib/obj/sleeptimerint.o :  ./lib/SLEEPT~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~2/5.3/Common/CY3E64~1/tools/include/CY8C24~3/m8c.inc\
+   C:\Work\SLC_Free\SL55AE~1\SLC_FR~1\SLC_FR~1\memory.inc
