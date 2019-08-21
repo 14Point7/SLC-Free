@@ -1,0 +1,1140 @@
+EESchema Schematic File Version 4
+LIBS:SLC_Free_PCB-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	5100 5900 5300 5900
+Text Label 5100 5900 0    10   ~ 0
+GND
+Wire Wire Line
+	6400 4400 6300 4400
+Text Label 6400 4400 0    10   ~ 0
+GND
+Wire Wire Line
+	6000 3300 6000 3200
+Wire Wire Line
+	6000 3300 6200 3300
+Wire Wire Line
+	6200 3300 6500 3300
+Connection ~ 6200 3300
+Text Label 6000 3300 0    10   ~ 0
+GND
+Wire Wire Line
+	4600 2700 3800 2700
+Wire Wire Line
+	4200 5200 3700 5200
+Wire Wire Line
+	3700 5200 3700 5000
+Connection ~ 4200 5200
+Text Label 4200 5200 0    10   ~ 0
+GND
+Wire Wire Line
+	7600 3300 7900 3300
+Text Label 7600 3300 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 4700 2700 4700
+Wire Wire Line
+	2700 4700 2700 4500
+Wire Wire Line
+	2700 4500 2500 4500
+Text Label 3200 4700 0    10   ~ 0
+GND
+Wire Wire Line
+	6800 5500 6900 5500
+Wire Wire Line
+	6900 5500 6900 5400
+Wire Wire Line
+	6900 5400 7100 5400
+Connection ~ 7100 5400
+Text Label 6800 5500 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 2600 3000 2600
+Wire Wire Line
+	3000 2600 3000 2400
+Wire Wire Line
+	3000 2400 2800 2400
+Text Label 3200 2600 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 4100 2800 4100
+Text Label 3200 4100 0    10   ~ 0
+GND
+Wire Wire Line
+	3200 5800 2600 5800
+Wire Wire Line
+	2600 5800 2600 5700
+Wire Wire Line
+	2600 5700 2400 5700
+Text Label 3200 5800 0    10   ~ 0
+GND
+Wire Wire Line
+	4600 3600 3700 3600
+Text Label 3750 3450 0    70   ~ 0
+LSU_VGND
+Wire Wire Line
+	5300 4800 4700 4800
+Text Label 4700 4800 0    70   ~ 0
+LSU_VGND
+Text Label 3700 3800 0    70   ~ 0
+LSU_NERMEST
+Wire Wire Line
+	7800 4600 7800 5000
+Wire Wire Line
+	7800 5000 8100 5000
+Text Label 7800 4600 3    70   ~ 0
+LSU_NERMEST
+Connection ~ 7800 5000
+Text Label 3800 3900 0    70   ~ 0
+LSU_IP
+Wire Wire Line
+	4500 4300 4500 4100
+Wire Wire Line
+	4500 4100 4800 4100
+Text Label 4600 4100 0    70   ~ 0
+LSU_IP
+Wire Wire Line
+	4600 3800 3700 3800
+Text Label 3700 3600 0    70   ~ 0
+LSU_IA
+Wire Wire Line
+	5300 4700 4500 4700
+Text Label 4900 4700 0    70   ~ 0
+LSU_IA
+Wire Wire Line
+	6800 4700 6900 4700
+Text Label 6900 4700 0    70   ~ 0
+LSU_IA
+Wire Wire Line
+	5000 3000 5000 2900
+Wire Wire Line
+	4600 3400 4300 3400
+Wire Wire Line
+	4300 3400 4300 3300
+Text Label 7200 6400 2    70   ~ 0
+GND
+Text Label 4000 3000 0    70   ~ 0
+H_GND
+Wire Wire Line
+	3800 5600 4100 5600
+Wire Wire Line
+	5900 5500 6600 5500
+Wire Wire Line
+	6600 5500 6600 5100
+Wire Wire Line
+	6600 5100 6800 5100
+Wire Wire Line
+	6800 5100 7100 5100
+Connection ~ 6800 5100
+Text Label 5900 5500 0    70   ~ 0
+XRES
+Wire Wire Line
+	3200 4800 2500 4800
+Text Label 2500 4800 0    70   ~ 0
+XRES
+Wire Wire Line
+	6000 4400 6000 4200
+Wire Wire Line
+	5900 4600 6000 4600
+Wire Wire Line
+	6000 4600 6000 4400
+Connection ~ 6000 4400
+Text Label 6000 4400 0    10   ~ 0
++5V
+Wire Wire Line
+	8100 4500 8100 4600
+Text Label 8100 4500 0    10   ~ 0
++5V
+Wire Wire Line
+	4200 4200 4200 4300
+Text Label 4200 4200 0    10   ~ 0
++5V
+Wire Wire Line
+	7500 3000 7600 3000
+Wire Wire Line
+	7600 3000 7600 2700
+Wire Wire Line
+	7600 2700 7600 2600
+Wire Wire Line
+	7600 3000 7900 3000
+Wire Wire Line
+	7400 2700 7450 2700
+Connection ~ 7600 3000
+Connection ~ 7600 2700
+Text Label 7500 3000 0    10   ~ 0
++5V
+Wire Wire Line
+	3200 4600 2900 4600
+Wire Wire Line
+	2900 4600 2900 4500
+Text Label 3200 4600 0    10   ~ 0
++5V
+Wire Wire Line
+	3200 2700 1900 2700
+Wire Wire Line
+	1900 2700 1900 2600
+Connection ~ 1900 2700
+Text Label 3200 2700 0    10   ~ 0
++5V
+Wire Wire Line
+	2000 4000 2000 3900
+Text Label 2000 4000 0    10   ~ 0
++5V
+Wire Wire Line
+	3200 5900 2200 5900
+Wire Wire Line
+	2200 5900 2200 5800
+Text Label 3200 5900 0    10   ~ 0
++5V
+Wire Wire Line
+	5300 4900 4400 4900
+Wire Wire Line
+	4400 4900 4400 4700
+Wire Wire Line
+	4400 4700 4200 4700
+Wire Wire Line
+	4200 4700 4200 4800
+Wire Wire Line
+	4200 4700 3700 4700
+Text Label 4600 4900 0    70   ~ 0
+INSAMP_VREF
+Connection ~ 4200 4700
+Wire Wire Line
+	5900 4900 7100 4900
+Wire Wire Line
+	7100 4900 7100 4600
+Text Label 6000 4900 0    70   ~ 0
+AC_TEMP_SENSE_OUT
+Wire Wire Line
+	6200 3000 6500 3000
+Wire Wire Line
+	6500 3000 6700 3000
+Wire Wire Line
+	7200 2700 7150 2700
+Wire Wire Line
+	6700 2700 6700 3000
+Connection ~ 6200 3000
+Connection ~ 6500 3000
+Connection ~ 6700 3000
+Wire Wire Line
+	5200 3000 5300 3000
+Wire Wire Line
+	5300 4600 4800 4600
+Wire Wire Line
+	4800 4600 4800 4500
+Text Label 4800 4600 0    70   ~ 0
+APE_ADC
+Wire Wire Line
+	5900 4700 6400 4700
+Text Label 6000 4700 0    70   ~ 0
+RT_ADC
+Wire Wire Line
+	5900 5000 7400 5000
+Text Label 6000 5000 0    70   ~ 0
+RE+_ADC
+Wire Wire Line
+	6600 5700 6600 6200
+Wire Wire Line
+	6600 5700 5900 5700
+Text Label 5900 5700 0    70   ~ 0
+PWM_HEATER
+Wire Wire Line
+	5900 5600 7300 5600
+Text Label 5900 5600 0    70   ~ 0
+PWM_NB_OUT
+Wire Wire Line
+	5900 5900 6000 5900
+Text Label 6000 5900 0    70   ~ 0
+PROG_SDA
+Wire Wire Line
+	3200 5000 2500 5000
+Text Label 2500 5000 0    70   ~ 0
+PROG_SDA
+Wire Wire Line
+	5300 5800 4700 5800
+Text Label 4700 5800 0    70   ~ 0
+PROG_SCL
+Wire Wire Line
+	3200 4900 2500 4900
+Text Label 2500 4900 0    70   ~ 0
+PROG_SCL
+Wire Wire Line
+	5300 5600 4500 5600
+Text Label 4500 5600 0    70   ~ 0
+PWM_LIN_OUT
+Wire Wire Line
+	5900 5400 6000 5400
+Text Label 6000 5400 0    70   ~ 0
+LCD_DB4
+Wire Wire Line
+	3200 3600 2600 3600
+Text Label 2600 3600 0    70   ~ 0
+LCD_DB4
+Wire Wire Line
+	5300 5300 4800 5300
+Text Label 4800 5300 0    70   ~ 0
+LCD_DB5
+Wire Wire Line
+	3200 3700 2600 3700
+Text Label 2600 3700 0    70   ~ 0
+LCD_DB5
+Wire Wire Line
+	5300 5200 4800 5200
+Text Label 4800 5200 0    70   ~ 0
+LCD_DB7
+Wire Wire Line
+	3200 3900 2600 3900
+Text Label 2600 3900 0    70   ~ 0
+LCD_DB7
+Wire Wire Line
+	5900 5300 6000 5300
+Text Label 6000 5300 0    70   ~ 0
+LCD_DB6
+Wire Wire Line
+	3200 3800 2600 3800
+Text Label 2600 3800 0    70   ~ 0
+LCD_DB6
+Wire Wire Line
+	5900 5200 6000 5200
+Text Label 6000 5200 0    70   ~ 0
+LCD_E
+Wire Wire Line
+	3200 3100 2600 3100
+Text Label 2600 3100 0    70   ~ 0
+LCD_E
+Wire Wire Line
+	5900 5100 6000 5100
+Text Label 6000 5100 0    70   ~ 0
+LCD_RW
+Wire Wire Line
+	3200 3000 2600 3000
+Text Label 2600 3000 0    70   ~ 0
+LCD_RW
+Wire Wire Line
+	5300 5100 4800 5100
+Text Label 4800 5100 0    70   ~ 0
+LCD_RS
+Wire Wire Line
+	3200 2900 2600 2900
+Text Label 2600 2900 0    70   ~ 0
+LCD_RS
+Wire Wire Line
+	5900 5800 6000 5800
+Text Label 6000 5800 0    70   ~ 0
+CAL
+Wire Wire Line
+	7900 5600 7700 5600
+Text Label 7700 5600 0    70   ~ 0
+NB_OUT
+Wire Wire Line
+	4600 3000 4000 3000
+Wire Wire Line
+	3200 2800 2500 2800
+Wire Wire Line
+	2500 2800 2500 3300
+Wire Wire Line
+	2500 3300 1600 3300
+Connection ~ 1600 3300
+Text Label 1600 3300 0    70   ~ 0
+LCD_CONTRAST
+Wire Wire Line
+	3200 4000 2400 4000
+Text Label 2400 4000 0    70   ~ 0
+LCD_ANODE
+Wire Wire Line
+	5300 5000 4800 5000
+Text Label 4800 5000 0    70   ~ 0
+P2[7]
+Wire Wire Line
+	3200 5700 2700 5700
+Text Label 2700 5700 0    70   ~ 0
+P2[7]
+Wire Wire Line
+	5300 5500 4800 5500
+Text Label 4800 5500 0    70   ~ 0
+P1[7]
+Wire Wire Line
+	3200 5600 2700 5600
+Text Label 2700 5600 0    70   ~ 0
+P1[7]
+Wire Wire Line
+	5300 5700 4800 5700
+Text Label 4800 5700 0    70   ~ 0
+P1[3]
+Wire Wire Line
+	3200 5500 2700 5500
+Text Label 2700 5500 0    70   ~ 0
+P1[3]
+Wire Wire Line
+	5900 4800 6000 4800
+Text Label 6000 4800 0    70   ~ 0
+P0[4]
+Wire Wire Line
+	3200 5400 2700 5400
+Text Label 2700 5400 0    70   ~ 0
+P0[4]
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND01
+U 1 1 DB8695AC
+P 6400 4500
+F 0 "#GND01" H 6400 4500 50  0001 C CNN
+F 1 "GND" H 6300 4400 59  0000 L BNN
+F 2 "" H 6400 4500 50  0001 C CNN
+F 3 "" H 6400 4500 50  0001 C CNN
+	1    6400 4500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND02
+U 1 1 13A376EC
+P 5100 6000
+F 0 "#GND02" H 5100 6000 50  0001 C CNN
+F 1 "GND" H 5000 5900 59  0000 L BNN
+F 2 "" H 5100 6000 50  0001 C CNN
+F 3 "" H 5100 6000 50  0001 C CNN
+	1    5100 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+02
+U 1 1 339DE9D3
+P 6000 4100
+F 0 "#P+02" H 6000 4100 50  0001 C CNN
+F 1 "+5V" V 5900 3900 59  0000 L BNN
+F 2 "" H 6000 4100 50  0001 C CNN
+F 3 "" H 6000 4100 50  0001 C CNN
+	1    6000 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND08
+U 1 1 DF24F9E8
+P 3800 6000
+F 0 "#GND08" H 3800 6000 50  0001 C CNN
+F 1 "GND" H 3700 5900 59  0000 L BNN
+F 2 "" H 3800 6000 50  0001 C CNN
+F 3 "" H 3800 6000 50  0001 C CNN
+	1    3800 6000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:DIL28-3 IC2
+U 1 1 FE6CCBEC
+P 5600 5200
+F 0 "IC2" H 5425 5875 59  0000 L BNN
+F 1 "CY8C24423A-24PXI" H 5425 4350 59  0000 L BNN
+F 2 "SLC_Free_PCB:DIL28-3" H 5600 5200 50  0001 C CNN
+F 3 "" H 5600 5200 50  0001 C CNN
+	1    5600 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R13
+U 1 1 D5237DDE
+P 6800 6200
+F 0 "R13" H 6650 6259 59  0000 L BNN
+F 1 "1K" H 6650 6070 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 6800 6200 50  0001 C CNN
+F 3 "" H 6800 6200 50  0001 C CNN
+	1    6800 6200
+	1    0    0    1   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R4
+U 1 1 98DC0D12
+P 7600 4600
+F 0 "R4" H 7450 4659 59  0000 L BNN
+F 1 "10k" H 7450 4470 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 7600 4600 50  0001 C CNN
+F 3 "" H 7600 4600 50  0001 C CNN
+	1    7600 4600
+	-1   0    0    1   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R12
+U 1 1 FC0C7BCC
+P 4300 5600
+F 0 "R12" H 4150 5659 59  0000 L BNN
+F 1 "1k" H 4150 5470 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 4300 5600 50  0001 C CNN
+F 3 "" H 4300 5600 50  0001 C CNN
+	1    4300 5600
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R10
+U 1 1 0A067037
+P 6800 5300
+F 0 "R10" H 6650 5359 59  0000 L BNN
+F 1 "10k" H 6650 5170 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 6800 5300 50  0001 C CNN
+F 3 "" H 6800 5300 50  0001 C CNN
+	1    6800 5300
+	0    1    1    0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C6
+U 1 1 45125544
+P 7200 4600
+F 0 "C6" H 7240 4625 59  0000 L BNN
+F 1 "1uf" H 7240 4435 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 7200 4600 50  0001 C CNN
+F 3 "" H 7200 4600 50  0001 C CNN
+	1    7200 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C8
+U 1 1 6406DB36
+P 7100 5200
+F 0 "C8" H 7140 5225 59  0000 L BNN
+F 1 "100nf" H 7140 5035 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 7100 5200 50  0001 C CNN
+F 3 "" H 7100 5200 50  0001 C CNN
+	1    7100 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C5
+U 1 1 FF0A6764
+P 6100 4400
+F 0 "C5" H 6140 4425 59  0000 L BNN
+F 1 "100nf" H 6140 4235 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 6100 4400 50  0001 C CNN
+F 3 "" H 6100 4400 50  0001 C CNN
+	1    6100 4400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+05
+U 1 1 33ACA7EC
+P 7600 2500
+F 0 "#P+05" H 7600 2500 50  0001 C CNN
+F 1 "+5V" V 7500 2300 59  0000 L BNN
+F 2 "" H 7600 2500 50  0001 C CNN
+F 3 "" H 7600 2500 50  0001 C CNN
+	1    7600 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R8
+U 1 1 B35105BA
+P 7600 5000
+F 0 "R8" H 7450 5059 59  0000 L BNN
+F 1 "1k" H 7450 4870 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 7600 5000 50  0001 C CNN
+F 3 "" H 7600 5000 50  0001 C CNN
+	1    7600 5000
+	-1   0    0    1   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R2
+U 1 1 733DB3B0
+P 4800 4300
+F 0 "R2" H 4650 4359 59  0000 L BNN
+F 1 "1k" H 4650 4170 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 4800 4300 50  0001 C CNN
+F 3 "" H 4800 4300 50  0001 C CNN
+	1    4800 4300
+	0    -1   -1   0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R6
+U 1 1 64669C67
+P 6600 4700
+F 0 "R6" H 6450 4759 59  0000 L BNN
+F 1 "1k" H 6450 4570 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 6600 4700 50  0001 C CNN
+F 3 "" H 6600 4700 50  0001 C CNN
+	1    6600 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND010
+U 1 1 845C69E3
+P 6000 3400
+F 0 "#GND010" H 6000 3400 50  0001 C CNN
+F 1 "GND" H 5900 3300 59  0000 L BNN
+F 2 "" H 6000 3400 50  0001 C CNN
+F 3 "" H 6000 3400 50  0001 C CNN
+	1    6000 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R7
+U 1 1 D7380F0A
+P 8100 4800
+F 0 "R7" H 7950 4859 59  0000 L BNN
+F 1 "R-US_0204_7" H 7950 4670 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 8100 4800 50  0001 C CNN
+F 3 "" H 8100 4800 50  0001 C CNN
+	1    8100 4800
+	0    1    1    0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+06
+U 1 1 B0F39303
+P 8100 4400
+F 0 "#P+06" H 8100 4400 50  0001 C CNN
+F 1 "+5V" V 8000 4200 59  0000 L BNN
+F 2 "" H 8100 4400 50  0001 C CNN
+F 3 "" H 8100 4400 50  0001 C CNN
+	1    8100 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:BUZ11BH IC3
+U 1 1 6A6F5BEF
+P 7100 6100
+F 0 "IC3" H 7300 6200 59  0000 L BNN
+F 1 "IRF3710" H 7300 6100 59  0000 L BNN
+F 2 "SLC_Free_PCB:TO220BH" H 7100 6100 50  0001 C CNN
+F 3 "" H 7100 6100 50  0001 C CNN
+	1    7100 6100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R5
+U 1 1 F5E59E3A
+P 4200 4500
+F 0 "R5" H 4050 4559 59  0000 L BNN
+F 1 "1k" H 4050 4370 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 4200 4500 50  0001 C CNN
+F 3 "" H 4200 4500 50  0001 C CNN
+	1    4200 4500
+	0    1    1    0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R9
+U 1 1 AF631EA7
+P 4200 5000
+F 0 "R9" H 4050 5059 59  0000 L BNN
+F 1 "1k" H 4050 4870 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 4200 5000 50  0001 C CNN
+F 3 "" H 4200 5000 50  0001 C CNN
+	1    4200 5000
+	0    1    1    0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND07
+U 1 1 9CDE76EF
+P 4200 5300
+F 0 "#GND07" H 4200 5300 50  0001 C CNN
+F 1 "GND" H 4100 5200 59  0000 L BNN
+F 2 "" H 4200 5300 50  0001 C CNN
+F 3 "" H 4200 5300 50  0001 C CNN
+	1    4200 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C7
+U 1 1 BFFA351D
+P 3700 4800
+F 0 "C7" H 3740 4825 59  0000 L BNN
+F 1 "100nf" H 3740 4635 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 3700 4800 50  0001 C CNN
+F 3 "" H 3700 4800 50  0001 C CNN
+	1    3700 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+03
+U 1 1 00F05DF6
+P 4200 4100
+F 0 "#P+03" H 4200 4100 50  0001 C CNN
+F 1 "+5V" V 4100 3900 59  0000 L BNN
+F 2 "" H 4200 4100 50  0001 C CNN
+F 3 "" H 4200 4100 50  0001 C CNN
+	1    4200 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:78T IC1
+U 1 1 06F92037
+P 7100 3000
+F 0 "IC1" H 6800 3225 59  0000 L BNN
+F 1 "L7805CV" H 6800 3125 59  0000 L BNN
+F 2 "SLC_Free_PCB:TO220H" H 7100 3000 50  0001 C CNN
+F 3 "" H 7100 3000 50  0001 C CNN
+	1    7100 3000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND09
+U 1 1 928DF91D
+P 7600 3400
+F 0 "#GND09" H 7600 3400 50  0001 C CNN
+F 1 "GND" H 7500 3300 59  0000 L BNN
+F 2 "" H 7600 3400 50  0001 C CNN
+F 3 "" H 7600 3400 50  0001 C CNN
+	1    7600 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C2
+U 1 1 6F136683
+P 6500 3100
+F 0 "C2" H 6540 3125 59  0000 L BNN
+F 1 "100nf" H 6540 2935 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 6500 3100 50  0001 C CNN
+F 3 "" H 6500 3100 50  0001 C CNN
+	1    6500 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C4
+U 1 1 2E544DC1
+P 7900 3100
+F 0 "C4" H 7940 3125 59  0000 L BNN
+F 1 "100nf" H 7940 2935 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 7900 3100 50  0001 C CNN
+F 3 "" H 7900 3100 50  0001 C CNN
+	1    7900 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND011
+U 1 1 19DA8D48
+P 7100 3400
+F 0 "#GND011" H 7100 3400 50  0001 C CNN
+F 1 "GND" H 7000 3300 59  0000 L BNN
+F 2 "" H 7100 3400 50  0001 C CNN
+F 3 "" H 7100 3400 50  0001 C CNN
+	1    7100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R3
+U 1 1 77E48E03
+P 4500 4500
+F 0 "R3" H 4350 4559 59  0000 L BNN
+F 1 "61.9" H 4350 4370 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 4500 4500 50  0001 C CNN
+F 3 "" H 4500 4500 50  0001 C CNN
+	1    4500 4500
+	0    1    1    0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:PINHD-1X6 JP2
+U 1 1 FA93C76E
+P 4700 3700
+F 0 "JP2" H 4450 4125 59  0000 L BNN
+F 1 "PINHD-1X6" H 4450 3300 59  0000 L BNN
+F 2 "Connector_Molex:Molex_Mega-Fit_76825-0006_2x03_P5.70mm_Horizontal" H 4700 3700 50  0001 C CNN
+F 3 "" H 4700 3700 50  0001 C CNN
+	1    4700 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:PINHD-1X5 JP3
+U 1 1 ACD8E5B6
+P 3300 4800
+F 0 "JP3" H 3050 5125 59  0000 L BNN
+F 1 "PINHD-1X5" H 3050 4400 59  0000 L BNN
+F 2 "SLC_Free_PCB:1X05" H 3300 4800 50  0001 C CNN
+F 3 "" H 3300 4800 50  0001 C CNN
+	1    3300 4800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+07
+U 1 1 BC2DCEA9
+P 2900 4400
+F 0 "#P+07" H 2900 4400 50  0001 C CNN
+F 1 "+5V" V 2800 4200 59  0000 L BNN
+F 2 "" H 2900 4400 50  0001 C CNN
+F 3 "" H 2900 4400 50  0001 C CNN
+	1    2900 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND06
+U 1 1 A07C0193
+P 2500 4600
+F 0 "#GND06" H 2500 4600 50  0001 C CNN
+F 1 "GND" H 2400 4500 59  0000 L BNN
+F 2 "" H 2500 4600 50  0001 C CNN
+F 3 "" H 2500 4600 50  0001 C CNN
+	1    2500 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R11
+U 1 1 4EA54AE4
+P 7500 5600
+F 0 "R11" H 7350 5659 59  0000 L BNN
+F 1 "1k" H 7350 5470 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 7500 5600 50  0001 C CNN
+F 3 "" H 7500 5600 50  0001 C CNN
+	1    7500 5600
+	1    0    0    1   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND05
+U 1 1 EF27308A
+P 7100 5500
+F 0 "#GND05" H 7100 5500 50  0001 C CNN
+F 1 "GND" H 7000 5400 59  0000 L BNN
+F 2 "" H 7100 5500 50  0001 C CNN
+F 3 "" H 7100 5500 50  0001 C CNN
+	1    7100 5500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND012
+U 1 1 A5F18D96
+P 7900 6000
+F 0 "#GND012" H 7900 6000 50  0001 C CNN
+F 1 "GND" H 7800 5900 59  0000 L BNN
+F 2 "" H 7900 6000 50  0001 C CNN
+F 3 "" H 7900 6000 50  0001 C CNN
+	1    7900 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:PINHD-1X16 JP4
+U 1 1 47274FB3
+P 3300 3300
+F 0 "JP4" H 3050 4125 59  0000 L BNN
+F 1 "PINHD-1X16" H 3050 2300 59  0000 L BNN
+F 2 "SLC_Free_PCB:1X16" H 3300 3300 50  0001 C CNN
+F 3 "" H 3300 3300 50  0001 C CNN
+	1    3300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C10
+U 1 1 B9820DED
+P 3800 5700
+F 0 "C10" H 3840 5725 59  0000 L BNN
+F 1 "100nf" H 3840 5535 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 3800 5700 50  0001 C CNN
+F 3 "" H 3800 5700 50  0001 C CNN
+	1    3800 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C9
+U 1 1 21F188E2
+P 7900 5700
+F 0 "C9" H 7940 5725 59  0000 L BNN
+F 1 "100nf" H 7940 5535 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 7900 5700 50  0001 C CNN
+F 3 "" H 7900 5700 50  0001 C CNN
+	1    7900 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+08
+U 1 1 B54CCCBB
+P 1900 2500
+F 0 "#P+08" H 1900 2500 50  0001 C CNN
+F 1 "+5V" V 1800 2300 59  0000 L BNN
+F 2 "" H 1900 2500 50  0001 C CNN
+F 3 "" H 1900 2500 50  0001 C CNN
+	1    1900 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND013
+U 1 1 9E3D6951
+P 2800 2500
+F 0 "#GND013" H 2800 2500 50  0001 C CNN
+F 1 "GND" H 2700 2400 59  0000 L BNN
+F 2 "" H 2800 2500 50  0001 C CNN
+F 3 "" H 2800 2500 50  0001 C CNN
+	1    2800 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:C-US025-025X050 C11
+U 1 1 5F7CD27E
+P 1900 2800
+F 0 "C11" H 1940 2825 59  0000 L BNN
+F 1 "100nf" H 1940 2635 59  0000 L BNN
+F 2 "SLC_Free_PCB:C025-025X050" H 1900 2800 50  0001 C CNN
+F 3 "" H 1900 2800 50  0001 C CNN
+	1    1900 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND014
+U 1 1 109F320A
+P 1900 3100
+F 0 "#GND014" H 1900 3100 50  0001 C CNN
+F 1 "GND" H 1800 3000 59  0000 L BNN
+F 2 "" H 1900 3100 50  0001 C CNN
+F 3 "" H 1900 3100 50  0001 C CNN
+	1    1900 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R14
+U 1 1 42B60E9C
+P 1600 3100
+F 0 "R14" H 1450 3159 59  0000 L BNN
+F 1 "4.7k" H 1450 2970 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 1600 3100 50  0001 C CNN
+F 3 "" H 1600 3100 50  0001 C CNN
+	1    1600 3100
+	0    1    -1   0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R15
+U 1 1 200557CD
+P 1600 3500
+F 0 "R15" H 1450 3559 59  0000 L BNN
+F 1 "1.2k" H 1450 3370 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 1600 3500 50  0001 C CNN
+F 3 "" H 1600 3500 50  0001 C CNN
+	1    1600 3500
+	0    1    -1   0   
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND015
+U 1 1 257B06B4
+P 1600 3800
+F 0 "#GND015" H 1600 3800 50  0001 C CNN
+F 1 "GND" H 1500 3700 59  0000 L BNN
+F 2 "" H 1600 3800 50  0001 C CNN
+F 3 "" H 1600 3800 50  0001 C CNN
+	1    1600 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+09
+U 1 1 540F2EFD
+P 1600 2800
+F 0 "#P+09" H 1600 2800 50  0001 C CNN
+F 1 "+5V" V 1500 2600 59  0000 L BNN
+F 2 "" H 1600 2800 50  0001 C CNN
+F 3 "" H 1600 2800 50  0001 C CNN
+	1    1600 2800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0204_7 R16
+U 1 1 EFF1A6CC
+P 2200 4000
+F 0 "R16" H 2050 4059 59  0000 L BNN
+F 1 "100" H 2050 3870 59  0000 L BNN
+F 2 "SLC_Free_PCB:0204_7" H 2200 4000 50  0001 C CNN
+F 3 "" H 2200 4000 50  0001 C CNN
+	1    2200 4000
+	-1   0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+010
+U 1 1 99CC31BE
+P 2000 3800
+F 0 "#P+010" H 2000 3800 50  0001 C CNN
+F 1 "+5V" V 1900 3600 59  0000 L BNN
+F 2 "" H 2000 3800 50  0001 C CNN
+F 3 "" H 2000 3800 50  0001 C CNN
+	1    2000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND016
+U 1 1 99D4D269
+P 2800 4200
+F 0 "#GND016" H 2800 4200 50  0001 C CNN
+F 1 "GND" H 2700 4100 59  0000 L BNN
+F 2 "" H 2800 4200 50  0001 C CNN
+F 3 "" H 2800 4200 50  0001 C CNN
+	1    2800 4200
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:PINHD-1X6 JP5
+U 1 1 6716FC81
+P 3300 5700
+F 0 "JP5" H 3050 6125 59  0000 L BNN
+F 1 "PINHD-1X6" H 3050 5300 59  0000 L BNN
+F 2 "SLC_Free_PCB:1X06" H 3300 5700 50  0001 C CNN
+F 3 "" H 3300 5700 50  0001 C CNN
+	1    3300 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:GND #GND03
+U 1 1 7679BDCC
+P 2400 5800
+F 0 "#GND03" H 2400 5800 50  0001 C CNN
+F 1 "GND" H 2300 5700 59  0000 L BNN
+F 2 "" H 2400 5800 50  0001 C CNN
+F 3 "" H 2400 5800 50  0001 C CNN
+	1    2400 5800
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:+5V #P+011
+U 1 1 FBD5C941
+P 2200 5700
+F 0 "#P+011" H 2200 5700 50  0001 C CNN
+F 1 "+5V" V 2100 5500 59  0000 L BNN
+F 2 "" H 2200 5700 50  0001 C CNN
+F 3 "" H 2200 5700 50  0001 C CNN
+	1    2200 5700
+	1    0    0    -1  
+$EndComp
+$Comp
+L SLC_Free_PCB-eagle-import:R-US_0309_12 R1
+U 1 1 224EEC03
+P 5700 3000
+F 0 "R1" H 5550 3059 59  0000 L BNN
+F 1 "10" H 5550 2870 59  0000 L BNN
+F 2 "SLC_Free_PCB:0309_12" H 5700 3000 50  0001 C CNN
+F 3 "" H 5700 3000 50  0001 C CNN
+	1    5700 3000
+	1    0    0    -1  
+$EndComp
+Text Notes 1600 1800 0    59   ~ 0
+Requires external 5a fuse on 12v
+Text Notes 1600 1900 0    59   ~ 0
+Populate R7 with 120k for LSU 4.9, leave empty for LSU 4.2
+Text Notes 1600 2200 0    59   ~ 0
+R16 sets the LCD backlight brightness
+Text Notes 1600 2000 0    59   ~ 0
+R1 is a 1/2 Watt resistor, it is physically larger than the other resistors
+Text Notes 1600 2100 0    59   ~ 0
+R14+R15 sets the contrast of the LCD, the values shown on this schematic is specific to the LCD supplied by 14Point7. Using another LCD may require adjustments to the resistor values
+Text Notes 1600 2300 0    59   ~ 0
+Never connect or disconnect the Lambda sensor while SLC Free is powered
+Connection ~ 6000 3300
+Text Label 4100 5600 2    70   ~ 0
+LIN_OUT
+Text GLabel 3800 5600 0    50   Input ~ 0
+LIN_OUT
+Text GLabel 4000 2800 0    50   Input ~ 0
+LIN_OUT
+Text GLabel 4600 2900 0    50   Input ~ 0
+NB_OUT
+Text GLabel 8150 5600 2    50   Input ~ 0
+NB_OUT
+Wire Wire Line
+	7900 5600 8150 5600
+Connection ~ 7900 5600
+Text GLabel 3800 2700 0    50   Input ~ 0
+GND
+Text GLabel 6000 3300 0    50   Input ~ 0
+GND
+Wire Wire Line
+	7200 5900 7200 5800
+Wire Wire Line
+	7200 6300 7200 6400
+Wire Wire Line
+	4600 2800 4000 2800
+Text GLabel 7200 5800 2    50   Input ~ 0
+LSU_HEATER-
+Text GLabel 3950 3700 0    50   Input ~ 0
+LSU_HEATER-
+Wire Wire Line
+	4600 3450 4600 3500
+Wire Wire Line
+	4600 3700 3950 3700
+Wire Wire Line
+	3750 3450 4600 3450
+Wire Wire Line
+	3800 3900 4600 3900
+Text GLabel 5000 2900 0    50   Input ~ 0
+12V
+Text GLabel 4300 3300 0    50   Input ~ 0
+12V
+Text GLabel 4600 2600 0    50   Input ~ 0
+12V
+$Comp
+L Device:D D2
+U 1 1 5C62CF2C
+P 5150 3000
+F 0 "D2" H 5150 2784 50  0000 C CNN
+F 1 "1N4004" H 5150 2875 50  0000 C CNN
+F 2 "Diode_THT:D_DO-15_P10.16mm_Horizontal" H 5150 3000 50  0001 C CNN
+F 3 "~" H 5150 3000 50  0001 C CNN
+	1    5150 3000
+	-1   0    0    1   
+$EndComp
+Connection ~ 5300 3000
+Wire Wire Line
+	5300 3000 5500 3000
+$Comp
+L Device:D D1
+U 1 1 5C630786
+P 7300 2700
+F 0 "D1" H 7300 2916 50  0000 C CNN
+F 1 "1N4004" H 7300 2825 50  0000 C CNN
+F 2 "Diode_THT:D_DO-15_P10.16mm_Horizontal" H 7300 2700 50  0001 C CNN
+F 3 "~" H 7300 2700 50  0001 C CNN
+	1    7300 2700
+	1    0    0    -1  
+$EndComp
+Connection ~ 7150 2700
+Wire Wire Line
+	7150 2700 6700 2700
+Connection ~ 7450 2700
+Wire Wire Line
+	7450 2700 7600 2700
+Wire Wire Line
+	5900 3000 6000 3000
+$Comp
+L Device:D D3
+U 1 1 5C630A00
+P 6000 3150
+F 0 "D3" V 5954 3229 50  0000 L CNN
+F 1 "P6KE24A" V 5600 3100 50  0000 L CNN
+F 2 "Diode_THT:D_DO-15_P10.16mm_Horizontal" H 6000 3150 50  0001 C CNN
+F 3 "~" H 6000 3150 50  0001 C CNN
+	1    6000 3150
+	0    1    1    0   
+$EndComp
+Connection ~ 6000 3000
+Wire Wire Line
+	6000 3000 6200 3000
+$Comp
+L Device:CP C1
+U 1 1 5C619F16
+P 6200 3150
+F 0 "C1" H 6318 3196 50  0000 L CNN
+F 1 "47uF 20V" H 6318 3105 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 6238 3000 50  0001 C CNN
+F 3 "~" H 6200 3150 50  0001 C CNN
+	1    6200 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:CP C3
+U 1 1 5C61A09F
+P 7600 3150
+F 0 "C3" H 7718 3196 50  0000 L CNN
+F 1 "47uF" H 7718 3105 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 7638 3000 50  0001 C CNN
+F 3 "~" H 7600 3150 50  0001 C CNN
+	1    7600 3150
+	1    0    0    -1  
+$EndComp
+Connection ~ 7600 3300
+$Comp
+L SLC_Free_PCB-eagle-import:PINHD-1X5 JP1
+U 1 1 2F430EF2
+P 4700 2800
+F 0 "JP1" H 4450 3125 59  0000 L BNN
+F 1 "PINHD-1X5" H 4450 2400 59  0000 L BNN
+F 2 "Connector_Molex:Molex_Mega-Fit_76825-0004_2x02_P5.70mm_Horizontal" H 4700 2800 50  0001 C CNN
+F 3 "" H 4700 2800 50  0001 C CNN
+	1    4700 2800
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

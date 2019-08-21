@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SLC_Free_PCB)(type KiCad)(uri "$(KIPRJMOD)/SLC_Free_PCB.pretty")(options "")(descr ""))
+)
