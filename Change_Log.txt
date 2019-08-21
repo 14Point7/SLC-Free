@@ -1,0 +1,13 @@
+Dec 18 2013:
+-Initial Project released
+
+June 16 2014:
+-Changed Ia_PID_Kp to 25 and Ia_PID_Ki to 4, prior version had Kp and Ki set too agressively and caused pump current output oscillations.
+-in Ia_PID() function, Ri_Mid_Error boundary checked changed
+-in Ia_PID() function, Ri_Mid_Error_Sum boundary checked changed
+-Removed vestigial code regarding displaying Text on LCD that made it's way in from the closed sourced firmware. 
+November 12 2018:
+-Lambda and temp is displayed as text on first line, lambda graph at bottom of display.
+-Added a heatup msg
+-Vout defaults to lambda 1 during heatup.
+-New PCB with nice connector.
